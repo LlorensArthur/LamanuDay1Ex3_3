@@ -1,0 +1,14 @@
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\bin\Debug\net6.0\LamanuDay1Ex3_3.exe
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\bin\Debug\net6.0\LamanuDay1Ex3_3.deps.json
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\bin\Debug\net6.0\LamanuDay1Ex3_3.runtimeconfig.json
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\bin\Debug\net6.0\LamanuDay1Ex3_3.dll
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\bin\Debug\net6.0\ref\LamanuDay1Ex3_3.dll
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\bin\Debug\net6.0\LamanuDay1Ex3_3.pdb
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.AssemblyInfo.cs
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.dll
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\ref\LamanuDay1Ex3_3.dll
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.pdb
+C:\Users\arthu\source\repos\LamanuDay1Ex3_3\obj\Debug\net6.0\LamanuDay1Ex3_3.genruntimeconfig.cache
